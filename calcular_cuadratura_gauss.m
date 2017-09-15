@@ -4,5 +4,5 @@ function res = calcular_cuadratura_gauss(n,x,c,a)
   for k = 1:n
     res += c(k)*exp(-(a(k)^2));
   endfor
-  res = (1/sqrt(pi))*res
+  res = (1/sqrt(pi))*res;
 endfunction
