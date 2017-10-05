@@ -4,8 +4,7 @@
 ### Desde terminal
 1. Abrir un terminal (Ctrl + Alt + T), dirigirse al directorio donde se encuentra el archivo en cuestión.
 ejecutar los siguientes comandos:
-
-$ octave-cli
+    $ octave-cli
 
 2. Se abrirá octave en modo consola, escribir lo siguiente:
 
